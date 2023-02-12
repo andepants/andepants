@@ -1,7 +1,7 @@
 ### <div align="center">I'm Andrew, a full-stack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [A Restaurant Website] (https://github.com/andepants/Aliyahs-Kitchen)  
+- 🔭 I’m currently working on [A Restaurant Website](https://github.com/andepants/Aliyahs-Kitchen)  
   
 
 - 🌱 I’m currently learning TypeScript and GraphQL  
