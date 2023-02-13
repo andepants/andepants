@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [A Restaurant Website](https://github.com/andepants/Aliyahs-Kitchen)  
   
 
-- 🌱 I’m currently learning TypeScript and GraphQL  
+- 🌱 I’m currently learning TypeScript and GraphQL!
   
 
 - ⚡ Fun fact: I like to rollerblade and juggle  
