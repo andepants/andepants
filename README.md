@@ -1,10 +1,10 @@
 ### <div align="center">I'm Andrew, a full-stack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [A Restaurant Website](https://github.com/andepants/Aliyahs-Kitchen)  
+- 🔭 I’m currently working on [A Personal Website](https://github.com/andepants/Personal-Website)  
   
 
-- 🌱 I’m currently learning TypeScript and GraphQL!
+- 🌱 I’m currently learning Three.js and Next.js!
   
 
 - ⚡ Fun fact: I like to rollerblade and juggle  
