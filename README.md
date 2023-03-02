@@ -1,13 +1,13 @@
 ### <div align="center">I'm Andrew, a full-stack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [A Personal Website](https://github.com/andepants/Personal-Website)  
+- 🔭 I’m currently working on [A Youtube Bookmark Extension](https://github.com/andepants/youtube-bookmarker)  
   
 
 - 🌱 I’m currently learning Three.js and Next.js!
   
 
-- ⚡ Fun fact: I like to rollerblade and juggle  
+- ⚡ Fun fact: I like to 🛼 rollerblade, 🤹 juggling, and 📖 reading (reading Snow Crash rn)!
   
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
