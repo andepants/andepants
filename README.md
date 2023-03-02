@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Three.js and Next.js!
   
 
-- ⚡ Fun fact: I like to 🛼 rollerblade, 🤹 juggling, and 📖 reading (reading Snow Crash rn)!
+- ⚡ Fun fact: I like 🛼 rollerblading, 🤹 juggling, and 📖 reading (reading Snow Crash rn)!
   
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
