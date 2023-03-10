@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [A Youtube Bookmark Extension](https://github.com/andepants/youtube-bookmarker)  
   
 
-- 🌱 I’m currently learning Three.js and Next.js!
+- 🌱 I’m currently learning how to create chrome extensions!
   
 
 - ⚡ Fun fact: I like 🛼 rollerblading, 🤹 juggling, and 📖 reading (reading Snow Crash rn)!
