@@ -1,10 +1,10 @@
 ### <div align="center">I'm Andrew, a full-stack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [A Youtube Bookmark Extension](https://github.com/andepants/youtube-bookmarker)  
+- 🔭 I’m currently working on an AI Gift Generator  
   
 
-- 🌱 I’m currently learning how to create chrome extensions!
+- 🌱 I’m currently learning Svelte + SvelteKit!
   
 
 - ⚡ Fun fact: I like 🛼 rollerblading, 🤹 juggling, and 📖 reading (reading Snow Crash rn)!
