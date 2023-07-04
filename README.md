@@ -1,10 +1,10 @@
 ### <div align="center">I'm Andrew, a full-stack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on an AI Gift Generator  
+- 🔭 I’m currently working on an Job Resource Aggregrator Website!
   
 
-- 🌱 I’m currently learning Svelte + SvelteKit!
+- 🌱 I’m currently learning Recoil and TypeScript!
   
 
 - ⚡ Fun fact: I like 🛼 rollerblading, 🤹 juggling, and 📖 reading (reading Snow Crash rn)!
