@@ -1,13 +1,13 @@
 ### <div align="center">I'm Andrew, a full-stack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on an Job Resource Aggregrator Website!
+- 🔭 I’m currently working on Mobile Apps w/ React Native!
   
 
-- 🌱 I’m currently learning Recoil and TypeScript!
+- 🌱 I’m currently learning React Native!
   
 
-- ⚡ Fun fact: I like 🛼 rollerblading, 🤹 juggling, and 📖 reading (reading Snow Crash rn)!
+- ⚡ Fun fact: I like 🛼 rollerblading, 🤹 juggling, and 📖 reading!
   
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
